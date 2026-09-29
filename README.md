@@ -1,3 +1,3 @@
-# Maryam Zaheer — Portfolio
+# Maryam — Portfolio
 
 🌐 **Website:** [maryam.portfolio](https://www.maryam-dev.me/)
